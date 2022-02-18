@@ -68,7 +68,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   lut:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {fileID: 2800000, guid: c75e186435cf24b06ba55bc1c1999a6f, type: 3}
   lutIntensity:
     m_OverrideState: 1
@@ -78,7 +78,7 @@ MonoBehaviour:
     m_Value: 1
   depthOfFieldFocusMode:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   depthOfFieldAutofocusMinDistance:
     m_OverrideState: 0
     m_Value: 0
